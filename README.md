@@ -1,0 +1,2 @@
+MNIST
+: simple MNIST classifier
